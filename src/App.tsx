@@ -20,12 +20,12 @@ export default function App() {
       <Skills />
       <Tools />
       <Experience />
+      <Certifications />
       <DocumentationSamples />
       <WhyHireMe />
       <Workflow />
       <Projects />
       <Learning />
-      <Certifications />
       <Contact />
       <Footer />
     </main>
@@ -38,10 +38,10 @@ function Header() {
     { label: "Skills", href: "#skills" },
     { label: "Tools", href: "#tools" },
     { label: "Experience", href: "#experience" },
+    { label: "Certificates", href: "#certifications" },
     { label: "Docs", href: "#documentation" },
     { label: "Workflow", href: "#workflow" },
     { label: "Projects", href: "#projects" },
-    { label: "Certificates", href: "#certifications" },
     { label: "Contact", href: "#contact" },
   ];
 
@@ -78,7 +78,8 @@ function Header() {
 function Footer() {
   return (
     <footer className="border-t border-white/10 bg-slate-950 px-6 py-8 text-center text-sm text-slate-500">
-      © {new Date().getFullYear()} Mohammad Hasim Adnan. Warehouse Staff Portfolio.
+      © {new Date().getFullYear()} Mohammad Hasim Adnan. Warehouse Staff
+      Portfolio.
     </footer>
   );
 }
