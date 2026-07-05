@@ -123,8 +123,8 @@ export const projects = [
       "Membuat proses audit stok lebih mudah ditelusuri.",
     ],
     tools: ["Excel", "Stock Opname Sheet", "Checklist", "Inventory Log"],
-    interviewPoint:
-      "Saya memahami bahwa stock opname bukan hanya menghitung barang, tetapi memastikan data stok bisa dipercaya dan setiap selisih punya catatan yang jelas.",
+    // interviewPoint:
+    //   "Saya memahami bahwa stock opname bukan hanya menghitung barang, tetapi memastikan data stok bisa dipercaya dan setiap selisih punya catatan yang jelas.",
   },
   {
     title: "Inbound Receiving Quality Check",
@@ -152,8 +152,8 @@ export const projects = [
       "Meningkatkan ketertelusuran barang sejak barang diterima.",
     ],
     tools: ["Surat Jalan", "Goods Receipt Note", "Checklist", "Excel"],
-    interviewPoint:
-      "Dalam inbound, saya fokus memastikan barang yang masuk sudah benar dari sisi jumlah, kondisi, dan dokumen sebelum dicatat sebagai stok.",
+    // interviewPoint:
+    //   "Dalam inbound, saya fokus memastikan barang yang masuk sudah benar dari sisi jumlah, kondisi, dan dokumen sebelum dicatat sebagai stok.",
   },
   {
     title: "Picking, Packing & Dispatch Control",
@@ -186,8 +186,8 @@ export const projects = [
       "Delivery Note",
       "Barcode Label",
     ],
-    interviewPoint:
-      "Saya memahami pentingnya double check pada proses picking-packing karena kesalahan kecil bisa berdampak ke retur, komplain, dan biaya pengiriman ulang.",
+    // interviewPoint:
+    //   "Saya memahami pentingnya double check pada proses picking-packing karena kesalahan kecil bisa berdampak ke retur, komplain, dan biaya pengiriman ulang.",
   },
   {
     title: "Slow Moving & Minimum Stock Monitoring",
@@ -215,8 +215,8 @@ export const projects = [
       "Membantu keputusan pembelian lebih terkontrol.",
     ],
     tools: ["Excel", "Inventory Log", "Minimum Stock", "Stock Movement Report"],
-    interviewPoint:
-      "Saya melihat stok bukan hanya jumlah barang, tetapi informasi penting untuk menjaga operasional tetap lancar dan biaya penyimpanan tetap efisien.",
+    // interviewPoint:
+    //   "Saya melihat stok bukan hanya jumlah barang, tetapi informasi penting untuk menjaga operasional tetap lancar dan biaya penyimpanan tetap efisien.",
   },
 ];
 
