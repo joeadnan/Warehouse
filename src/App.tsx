@@ -54,7 +54,7 @@ function Header() {
       <nav className="mx-auto flex h-16 max-w-7xl items-center justify-between px-6 lg:px-8">
         {/* Logo */}
         <a href="#home" className="text-sm font-black tracking-wide text-white">
-          IT Support<span className="text-sky-400">.</span>
+          Warehouse Staff<span className="text-sky-400">.</span>
         </a>
 
         {/* Wrapper Menu & Tombol Navigasi */}

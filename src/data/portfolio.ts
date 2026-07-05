@@ -296,6 +296,7 @@ export const experiences: Experience[] = [
     period: "Juni 2019 - Mei 2021",
     location: "Jawilan, Serang",
     employmentType: "Full-time",
+    imageUrl: "/certifications/IMCP.jpg",
     summary:
       "Berpengalaman sebagai Warehouse Staff dalam aktivitas operasional gudang, termasuk penerimaan barang, pengecekan stok, penyimpanan barang, pencatatan data inventory, stock opname, serta pembuatan laporan operasional harian. Terbiasa bekerja dengan teliti, mengikuti SOP, menggunakan checklist, dan berkoordinasi dengan tim internal untuk memastikan proses gudang berjalan rapi dan sesuai kebutuhan operasional.",
     responsibilities: [
@@ -337,6 +338,7 @@ export const experiences: Experience[] = [
     period: "Januari 2018 - September 2018",
     location: "Cikande, Serang",
     employmentType: "Full-time",
+    imageUrl: "/certifications/KABATAMA.jpg",
     summary:
       "Berpengalaman sebagai Warehouse Operator dalam mendukung kegiatan operasional penyimpanan, pengecekan, pencatatan, dan distribusi barang atau perlengkapan kerja. Terbiasa menangani barang operasional, melakukan pendataan, menjaga kerapihan area penyimpanan, serta memastikan barang mudah ditemukan dan siap digunakan saat dibutuhkan.",
     responsibilities: [
@@ -375,40 +377,40 @@ export const experiences: Experience[] = [
 ];
 
 export const certifications: Certification[] = [
-  {
-    id: "warehouse-operations",
-    title: "Warehouse Operations ",
-    issuer: "Self Learning / Portfolio Project",
-    year: "2018",
-    status: "Completed",
-    category: "Warehouse Operations",
-    imageUrl: "/certifications/CV-2_page-0005.jpg",
-    description:
-      "Mempelajari alur operasional gudang dari receiving, putaway, storage, picking, packing, dispatch, dan dokumentasi pendukung.",
-    skills: ["Receiving", "Putaway", "Picking", "Packing", "Dispatch"],
-  },
+  // {
+  //   id: "warehouse-operations",
+  //   title: "Warehouse Operations ",
+  //   issuer: "Self Learning / Portfolio Project",
+  //   year: "2018",
+  //   status: "Completed",
+  //   category: "Warehouse Operations",
+  //   imageUrl: "/certifications/CV-2_page-0005.jpg",
+  //   description:
+  //     "Mempelajari alur operasional gudang dari receiving, putaway, storage, picking, packing, dispatch, dan dokumentasi pendukung.",
+  //   skills: ["Receiving", "Putaway", "Picking", "Packing", "Dispatch"],
+  // },
 
-  {
-    id: "warehouse-staff",
-    title: "Warehouse Staff & Inventory Operations",
-    issuer: "Self Learning / Workplace Practice",
-    year: "2026",
-    status: "Completed",
-    category: "Warehouse Staff",
-    imageUrl: "/certifications/CV-2_page-0004.jpg",
-    description:
-      "Mempelajari dasar operasional gudang, pencatatan barang, penerimaan dan pengeluaran barang, stock opname, penyimpanan barang, serta laporan inventory sederhana.",
-    skills: [
-      "Warehouse Operations",
-      "Receiving Goods",
-      "Stock Opname",
-      "Inventory Control",
-      "Stock Movement",
-      "Picking & Packing",
-      "Stock Checklist",
-      "Warehouse Documentation",
-    ],
-  },
+  // {
+  //   id: "warehouse-staff",
+  //   title: "Warehouse Staff & Inventory Operations",
+  //   issuer: "Self Learning / Workplace Practice",
+  //   year: "2026",
+  //   status: "Completed",
+  //   category: "Warehouse Staff",
+  //   imageUrl: "/certifications/CV-2_page-0004.jpg",
+  //   description:
+  //     "Mempelajari dasar operasional gudang, pencatatan barang, penerimaan dan pengeluaran barang, stock opname, penyimpanan barang, serta laporan inventory sederhana.",
+  //   skills: [
+  //     "Warehouse Operations",
+  //     "Receiving Goods",
+  //     "Stock Opname",
+  //     "Inventory Control",
+  //     "Stock Movement",
+  //     "Picking & Packing",
+  //     "Stock Checklist",
+  //     "Warehouse Documentation",
+  //   ],
+  // },
 
   {
     id: "forklift-operator",
@@ -417,7 +419,7 @@ export const certifications: Certification[] = [
     year: "2021",
     status: "Completed",
     category: "Forklift Operation",
-    imageUrl: "/certifications/CV-2_page-0003.jpg ",
+    imageUrl: "/certifications/CV-2_page-0003.jpg",
     description:
       "Mempelajari dasar pengoperasian forklift, keselamatan kerja di area gudang, pengecekan forklift sebelum digunakan, handling pallet, loading dan unloading barang, serta penerapan SOP warehouse.",
     skills: [
