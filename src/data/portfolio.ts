@@ -484,21 +484,21 @@ export const documentationSamples = [
     title: "Stock Opname Checklist",
     description:
       "Checklist pengecekan stok fisik, stok sistem, selisih, lokasi barang, dan catatan follow-up setelah opname.",
-    fileUrl: "/documents/stock-opname-checklist.md",
+    fileUrl: "/documents/Sample_Stock_Opname_Checklist.pdf",
     tags: ["Stock Opname", "Checklist", "Inventory"],
   },
   {
     title: "Warehouse Inbound & Outbound SOP",
     description:
       "Contoh SOP ringkas alur penerimaan barang, penyimpanan, picking, packing, dispatch, dan dokumentasi.",
-    fileUrl: "/documents/warehouse-inbound-outbound-sop.md",
+    fileUrl: "/documents/Warehouse_Inbound_Outbound_SOP.pdf",
     tags: ["SOP", "Inbound", "Outbound"],
   },
   {
     title: "Inventory Reconciliation Report",
     description:
       "Contoh dokumentasi laporan rekonsiliasi stok untuk item cocok, selisih lebih, selisih kurang, dan rekomendasi follow-up.",
-    fileUrl: "/documents/inventory-reconciliation-report.md",
+    fileUrl: "/documents/Inventory_Reconciliation_Report.pdf",
     tags: ["Inventory", "Reconciliation", "Report"],
   },
   {
