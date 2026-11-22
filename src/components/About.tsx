@@ -15,12 +15,7 @@ export function About() {
             </h3>
 
             <p className="mt-4 leading-8 text-slate-300">
-              Saya adalah kandidat Warehouse Staff yang memiliki ketertarikan
-              pada operasional gudang, pencatatan barang, stock opname,
-              inbound-outbound, picking-packing, dan dokumentasi administrasi.
-              Saya terbiasa bekerja dengan alur yang terstruktur: menerima
-              instruksi, mengecek data atau dokumen, memverifikasi kondisi
-              barang, mencatat hasil, lalu melaporkan temuan secara jelas.
+              Warehouse Staff dengan pengalaman lebih dari 3 tahun di bidang operasional gudang (inbound-outbound, picking-packing, stock opname, dan administrasi). Terbiasa bekerja dengan alur yang terstruktur dan teliti, mulai dari verifikasi dokumen dan fisik barang hingga pencatatan dan pelaporan hasil kerja secara akurat.
             </p>
 
             <div className="mt-6 rounded-2xl border border-sky-400/20 bg-sky-400/10 p-5">
